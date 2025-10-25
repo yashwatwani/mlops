@@ -1,1 +1,8 @@
 /data.txt
+/data
+/model.pkl
+/tfidf_vectorizer.pkl
+
+.DS_Store
+
+.DS_Store

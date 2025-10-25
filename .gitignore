@@ -1,8 +1,5 @@
 /data.txt
 /data
-/model.pkl
-/tfidf_vectorizer.pkl
-
-.DS_Store
-
+mlflow.db
+*.pkl
 .DS_Store
